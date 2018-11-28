@@ -9,8 +9,6 @@ import * as React from "react";
 
 export as namespace CopyToClipboard;
 
-export = CopyToClipboard;
-
 declare namespace CopyToClipboard {
   interface Options {
     debug: boolean;
